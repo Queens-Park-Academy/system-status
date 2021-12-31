@@ -4,19 +4,19 @@
     "url": "https://www.queensparkacademy.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.queensparkacademy.co.uk",
     "slug": "queens-park-academy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 633,
-    "timeWeek": 767,
-    "timeMonth": 802,
-    "timeYear": 709,
+    "time": 710,
+    "timeDay": 820,
+    "timeWeek": 797,
+    "timeMonth": 808,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2021-12-31": 0
+      "2021-12-31": 10
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 106,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2021-12-31": 575,
+      "2021-12-31": 586,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
