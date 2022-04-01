@@ -4,11 +4,11 @@
     "url": "https://www.queensparkacademy.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.queensparkacademy.co.uk",
     "slug": "queens-park-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 837,
     "timeDay": 3044,
@@ -16,7 +16,7 @@
     "timeMonth": 1261,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2022-04-01": 45
+      "2022-04-01": 32
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/bookmarks.qpa.uk.net",
     "slug": "queens-park-academy-bookmarks",
     "status": "up",
-    "uptime": "69.34%",
+    "uptime": "69.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.34%",
+    "uptimeYear": "69.35%",
     "time": 647,
     "timeDay": 618,
     "timeWeek": 518,
