@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.46%",
+    "uptimeWeek": "95.29%",
     "uptimeMonth": "97.06%",
     "uptimeYear": "99.75%",
-    "time": 737,
-    "timeDay": 192,
-    "timeWeek": 199,
-    "timeMonth": 214,
-    "timeYear": 741,
+    "time": 736,
+    "timeDay": 294,
+    "timeWeek": 205,
+    "timeMonth": 216,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2022-06-21": 533,
       "2022-06-20": 730,
@@ -28,16 +28,16 @@
     "icon": "https://favicons.githubusercontent.com/bookmarks.qpa.uk.net",
     "slug": "queens-park-academy-bookmarks",
     "status": "up",
-    "uptime": "76.27%",
+    "uptime": "76.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.30%",
-    "time": 619,
-    "timeDay": 375,
-    "timeWeek": 451,
-    "timeMonth": 479,
-    "timeYear": 608,
+    "time": 618,
+    "timeDay": 536,
+    "timeWeek": 477,
+    "timeMonth": 475,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2022-02-16": 45,
       "2022-02-15": 150,
@@ -136,8 +136,7 @@
       "2021-10-27": 576,
       "2021-10-26": 392,
       "2021-09-03": 54,
-      "2021-06-29": 20,
-      "2021-06-28": 101
+      "2021-06-29": 20
     }
   }
 ]
